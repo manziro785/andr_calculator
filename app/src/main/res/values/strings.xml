@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" >Bismillah</string>
+    <string name="title_name" >Calculator</string>
+    <string name="btn_cont">Прибавить числа</string>
+    <string name="first_form" >Введите первое число</string>
+    <string name="second_form" >Введите второе число</string>
+
+    <string name="btn_form" >Прибавить числа</string>
+
+
+</resources>
